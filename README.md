@@ -24,6 +24,8 @@ require(16434836259).load('CustomKey', 3)
 ```
 
 Then go to https://vision.rxfe.xyz/
+PS:you need to make a custom module if ur gonna use the vercel hosted one (refer to server-module.rbxm) also i recommend putting a discord webhook logger behind it (USE A PROXY ON VERCEL!!! and obfuscate with moonsec: https://discord.gg/2Eah77h8KC and choose roblox studio and enable ALL OBFUSCATION OPTIONS
+https://vision-web-hosted-on-vercel.vercel.app/
 
 And in settings replace the Key with your Key that you loaded in the require
 and In the username put your username in case you want to use the script hub
