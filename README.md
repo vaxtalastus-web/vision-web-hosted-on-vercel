@@ -1,5 +1,5 @@
 <h1>What is the vision executor</h1>
-<p><i>The vision executor is a web executor that is powered by HTTP Requests</i></p>
+<p><i>Vision Serverside is a web executor serverside that is powered by HTTP Requests</i></p>
 
  > [!CAUTION]
 > Vision will be going under major reworkings in a few days and may not be stable
@@ -12,7 +12,7 @@
 <p>Model https://create.roblox.com/store/asset/16434836259/NetworkConnectionReplicator</p>
 <b>You need to reupload the model if you want it to run on your custom domain!</b>
 
-- No Demonstartion (it should be pretty self explanitory, and if it isn't this repo isnt for you)
+- No Demonstration (it should be pretty self explanatory, and if it isn't this repo isnt for you)
 - Not really a public project (But its the Source Code)
 
 <p>How to Deploy</p>
